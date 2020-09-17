@@ -2,7 +2,7 @@
 //  runningSum.swift
 //
 //  https://leetcode.com/problems/running-sum-of-1d-array/
-//  Created by 하연 on 2020/09/16.
+//  Created by Linda on 2020/09/16.
 //
 
 func runningSum(_ nums: [Int]) -> [Int] {
