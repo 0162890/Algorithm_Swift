@@ -2,7 +2,7 @@
 //  1512_Number of Good Pairs.swift
 //  
 //  https://leetcode.com/problems/number-of-good-pairs/
-//  Created by 하연 on 2020/09/21.
+//  Created by Linda on 2020/09/21.
 //
 
 import Foundation
